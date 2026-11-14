@@ -83,7 +83,7 @@ Las librerías principales son TensorFlow/Keras, NumPy, Matplotlib, scikit-learn
 
 ## Autor
 
-**Tu Nombre** · Inteligencia Artificial · ITCH · Semestre 8
+**Ana Paola Cardona Valenzuela** · Inteligencia Artificial · ITCH · Semestre 8
 
 ## Licencia
 
