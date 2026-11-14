@@ -20,9 +20,9 @@ Este repositorio reúne tres cuadernos de Jupyter (`.ipynb`) que aplican la meto
 
 | Cuaderno | Problema | Técnica | Abrir en Colab |
 |----------|----------|---------|----------------|
-| `01_Regresion.ipynb` | Eliminar ruido de una señal coseno | Red `SimpleRNN` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pao235/NOMBRE_REPO/blob/main/01_Regresion.ipynb) |
-| `02_Clasificacion.ipynb` | Clasificar prendas de vestir | Red `Dense` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pao235/NOMBRE_REPO/blob/main/02_Clasificacion.ipynb) |
-| `03_Clustering.ipynb` | Predecir el aula de una medición | K-Means y Fuzzy C-Means | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pao235/NOMBRE_REPO/blob/main/03_Clustering.ipynb) |
+| `01_Regresion.ipynb` | Eliminar ruido de una señal coseno | Red `SimpleRNN` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pao235/Laboratorio_ML/blob/main/01_Regresion.ipynb) |
+| `02_Clasificacion.ipynb` | Clasificar prendas de vestir | Red `Dense` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pao235/Laboratorio_ML/blob/main/02_Clasificacion.ipynb) |
+| `03_Clustering.ipynb` | Predecir el aula de una medición | K-Means y Fuzzy C-Means | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pao235/Laboratorio_ML/blob/main/03_Clustering.ipynb) |
 
 ---
 
